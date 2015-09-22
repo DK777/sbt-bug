@@ -1,1 +1,1 @@
-libraryDependencies += "com.linkedin.pegasus" %% "sbt-plugin" % "0.2.2"
+libraryDependencies += "com.linkedin.restli-sbt-plugin" %% "sbt-plugin" % "0.2.2"
